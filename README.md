@@ -50,3 +50,6 @@ Establish KPIs for profit ratios and discount rates by region and category.
 Regularly review performance metrics to ensure alignment with profitability goals.
 ## Conclusion
 Unicorn has significant opportunities to improve profitability by addressing the aggressive discounting practices in underperforming regions, particularly Central. By optimizing discount strategies and focusing on high-performing categories like Technology, the company can achieve a more balanced and sustainable profit ratio across all regions.
+## Analysis and Presentation
+### Tableau: https://public.tableau.com/app/profile/emre.kirgin/viz/UnicornProject_17345387405760/Dashboard1
+### Presentation: https://www.loom.com/share/542fee5ac14843c98192626926822301
